@@ -6,3 +6,11 @@ Hells Canyon is a place of incredible majesty and harsh conditions. I want visit
 
 Hells Canyon is a very dramatic landscape with a very limited color palette, photographs are relatively low-contrast and desaturated. I want the site to feature photographs very heavily, hopefully including as low-opacity backgrounds, if I can find color palettes that are flattering and high enough contrast for accessibility.
 
+
+### Design Intent
+
+The color pallet is warm, rich browns, very pale beige, and actually nothing else. It's very simple. 
+
+I'm not a big font person, but it's definitely serif. Slightly old-timey. Times seems fine, maybe I'll pick something fancier for the header in a later phase. 
+
+The main visual choice is the image background. It's unusal, but it's low key enough not to be overwhelming. 

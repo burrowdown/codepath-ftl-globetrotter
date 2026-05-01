@@ -15,7 +15,12 @@ My wirefames show the navigation being outside the header for the desktop view b
 
 
 ## Milestone 2: CSS Styling
-_Add entries after applying styles._
+Color choice I made: Made the main text color not just technically brown, but noticeably brown instead of black.
+
+Claude made the backgrounds white, but I softened them to a beige color. More fitting with the vibe of the canyon. Desert grasslands! I also decreased their opacity a little bit, so we can get the texture of the background image. 
+
+The sub header on the guide page looked bad, out of place and didn't stand out enough. I added a background to it.
+
 
 ## Milestone 3: Flexbox Layout
 _Add entries after implementing Flexbox._
