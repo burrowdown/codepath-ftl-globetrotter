@@ -1,6 +1,6 @@
 This website is Hells Canyon, the deepest river canyon in North America. I crew up at the mouth of Hells Canyon and spent a lot of time there, and I think it's the most beautiful place on earth. 
 
-My primary audience is first-time visitors who will access the canyon by boat on the Snake River. I am not targeting visitors who will access the canyon by hiking or ATV. 
+My primary audience is first-time visitors who will access the canyon by boat on the Snake River. I am not targeting visitors who will access the canyon by hiking, kayak or raft, or ATV. 
 
 Hells Canyon is a place of incredible majesty and harsh conditions. I want visitors to understand the limitations of visiting the canyon, adn the amount of professional support and guidance they will need for their first visit by boat.
 
