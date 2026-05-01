@@ -9,7 +9,7 @@ class AttractionCard extends HTMLElement {
       <article class="card${flip ? ' card--flip' : ''}">
         <img src="${image}" alt="${title}" />
         <div class="card__content">
-          <h2>${title}</h2>
+          <h3>${title}</h3>
           <p>${description}</p>
         </div>
       </article>
