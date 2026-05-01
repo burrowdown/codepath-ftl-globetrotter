@@ -7,7 +7,12 @@
 - Wireframe format used (hand-drawn / Figma / other): hand drawn
 
 ## Milestone 1: HTML Structure
-_Add entries after building each page._
+It's kind of cheating because I'm using JS, but I really didn't want to be repeating all that HTML for the header and the item cards, so I went ahead and made web components. 
+
+Claude got the structure right on my first prompt, so all I had to change was content.
+
+My wirefames show the navigation being outside the header for the desktop view but inside it for the mobile view. I realized this would be annoying, and also thought about it harder and decided it would be ugly too. Function informing form! So I put the nav inside the header after all. 
+
 
 ## Milestone 2: CSS Styling
 _Add entries after applying styles._
