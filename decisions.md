@@ -19,11 +19,14 @@ Color choice I made: Made the main text color not just technically brown, but no
 
 Claude made the backgrounds white, but I softened them to a beige color. More fitting with the vibe of the canyon. Desert grasslands! I also decreased their opacity a little bit, so we can get the texture of the background image. 
 
+It also had the images run all the way to the edge of the cards, which would probably be the right call for most designs but looked insane with an image background.
+
 The sub header on the guide page looked bad, out of place and didn't stand out enough. I added a background to it.
 
 
 ## Milestone 3: Flexbox Layout
-_Add entries after implementing Flexbox._
+
+This was so straightforward that there was simply nothing for Claude to get wrong. It did exactly what I wanted and I changed nothing. 
 
 ## Milestone 4: Responsive Design
 _Add entries after implementing media queries._

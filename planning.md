@@ -14,3 +14,15 @@ The color pallet is warm, rich browns, very pale beige, and actually nothing els
 I'm not a big font person, but it's definitely serif. Slightly old-timey. Times seems fine, maybe I'll pick something fancier for the header in a later phase. 
 
 The main visual choice is the image background. It's unusal, but it's low key enough not to be overwhelming. 
+
+
+### Flexbox Layout Plan
+
+I actually can't do this section, I simply cannot wrap my head around step 3 "styling" without layout. That makes no sense to me. How is anything the right or wrong size without also being in the right location?
+
+The vision has always been: 
+* Guide and Attractions styled the same (they have the same wireframe)
+  * desktop: vertical stack of cards with image on one side and text on the other, alternating sides
+  * mobile: vertical stack of cards with image on top and text on the bottom
+* Photos
+    * grid layout, however many fit at whatever screen width
