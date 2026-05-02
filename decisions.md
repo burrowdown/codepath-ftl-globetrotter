@@ -40,5 +40,4 @@ The only thing that needed to be genuinely different between the two layouts is 
 - Video embed: Super easy, decided to go with a more vibey video instead of the Even Knievel one, which doesn't actually look like it has anything to do with the Canyon (and also technically doesn't, it's a bit downstream of what is actually considered Hells Canyon anyway.)
 - Newsletter: As predicted, Claude got it in one.
 - Google Font: I let Claude make a couple of font suggesteions, tried them out, picked the one I liked best. It applied to to both the header and "tagline" (or subheader) but I like it better with the tagline in Times, so I changed that.
-
-  _Add entries if you implement any stretch features._
+- Deployment: Easy :)
