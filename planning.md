@@ -26,3 +26,11 @@ The vision has always been:
   * mobile: vertical stack of cards with image on top and text on the bottom
 * Photos
     * grid layout, however many fit at whatever screen width
+
+### Breakpoints plan
+
+The instructions say to use three layouts, but I just really only see the need for two. There just aren't that many elements, the desktop view is going to look fine in a tablet. 
+
+The guide pages will have al  l information in vertical columns, wider on desktop (image and text side by side) and narrower on mobile (image on top and text below). 
+
+The photos page will use grid so it will be responsive to a variety of widths, it won't even need a breakpoint to switch to single column. 

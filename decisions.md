@@ -29,7 +29,11 @@ The sub header on the guide page looked bad, out of place and didn't stand out e
 This was so straightforward that there was simply nothing for Claude to get wrong. It did exactly what I wanted and I changed nothing. 
 
 ## Milestone 4: Responsive Design
-_Add entries after implementing media queries._
+
+Claude used 768 for the max-width but that seemed a little excessive. Dialed it down to 650, kinda just based on vibes. 
+
+The only thing that needed to be genuinely different between the two layouts is the header. The vertically stacked nav is unconventional, and it just makes the header very tall on a mobile view. That's why it collapses to a hamburger on mobile. 
+
 
 ## Stretch Features
 _Add entries if you implement any stretch features._
