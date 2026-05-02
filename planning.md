@@ -34,3 +34,12 @@ The instructions say to use three layouts, but I just really only see the need f
 The guide pages will have al  l information in vertical columns, wider on desktop (image and text side by side) and narrower on mobile (image on top and text below). 
 
 The photos page will use grid so it will be responsive to a variety of widths, it won't even need a breakpoint to switch to single column. 
+
+## Stretch features plan
+
+Embed: It'll be simple to add a youtube embed of a video, maybe the one about Even Knievel's jump over the Snake River Gorge
+Grid: Already done
+Deployment: sure why not
+Interactive Navigation: This seems hard for the layout I picked so I'm not going to bother
+Sign-up form: This seems pretty easy to add to the homepage? I'll give it a shot. Errr, have Claude give it a shot. 
+Custom styling: I can add a font, sure. I don't think class covers variables, but I always use them, so that's an easy lift. Pretty confident we won't cover clamp() either.
