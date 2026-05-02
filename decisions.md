@@ -37,6 +37,6 @@ The only thing that needed to be genuinely different between the two layouts is 
 
 ## Stretch Features
 
-Video embed: Super easy, decided to go with a more vibey video instead of the Even Knievel one, which doesn't actually look like it has anything to do with the Canyon (and also technically doesn't, it's a bit downstream of what is actually considered Hells Canyon anyway.)
-
-_Add entries if you implement any stretch features._
+- Video embed: Super easy, decided to go with a more vibey video instead of the Even Knievel one, which doesn't actually look like it has anything to do with the Canyon (and also technically doesn't, it's a bit downstream of what is actually considered Hells Canyon anyway.)
+- Newsletter: As predicted, Claude got it in one.
+  _Add entries if you implement any stretch features._

@@ -153,6 +153,81 @@ main {
   line-height: 1.75;
 }
 
+/* ===== HOME: NEWSLETTER FORM ===== */
+
+.newsletter {
+  background-color: var(--color-bg-card);
+  border-radius: 8px;
+  max-width: 700px;
+  width: 100%;
+  padding: 2.5rem 3rem;
+  display: grid;
+  gap: 1.25rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.45);
+}
+
+.newsletter h2 {
+  color: var(--color-text);
+  font-size: 1.5rem;
+  border-bottom: 2px solid var(--color-accent);
+  padding-bottom: 0.5rem;
+}
+
+.newsletter p {
+  color: var(--color-text);
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.newsletter form {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 6rem 1fr;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.form-row label {
+  color: var(--color-text);
+  font-size: 0.95rem;
+}
+
+.form-row input {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--color-accent);
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.95rem;
+  color: var(--color-text);
+  background-color: var(--color-white);
+}
+
+.form-row input:focus {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 1px;
+}
+
+.newsletter button {
+  justify-self: start;
+  padding: 0.6rem 1.75rem;
+  background-color: var(--color-accent);
+  color: var(--color-white);
+  border: none;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.newsletter button:hover {
+  opacity: 0.85;
+}
+
 /* ===== GUIDE / ATTRACTIONS: SECTION HEADING ===== */
 
 main > h2 {
@@ -347,6 +422,14 @@ figcaption {
 
   .summary {
     padding: 1.5rem;
+  }
+
+  .newsletter {
+    padding: 1.5rem;
+  }
+
+  .form-row {
+    grid-template-columns: 1fr;
   }
 
   .gallery {
