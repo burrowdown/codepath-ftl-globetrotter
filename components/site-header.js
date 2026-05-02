@@ -1,21 +1,27 @@
 class SiteHeader extends HTMLElement {
   connectedCallback() {
-    const path = window.location.pathname;
-    const isActive = (href) =>
-      href === '/' ? path === '/' || path === '/index.html' : path === href;
+    const inPages = window.location.pathname.includes('/pages/');
+    const base = inPages ? '../' : '';
 
     const links = [
-      { href: '/', label: 'Home' },
-      { href: '/pages/guide.html', label: 'Guide' },
-      { href: '/pages/attractions.html', label: 'Attractions' },
-      { href: '/pages/photos.html', label: 'Photos' },
+      { href: `${base}index.html`, label: 'Home' },
+      { href: `${base}pages/guide.html`, label: 'Guide' },
+      { href: `${base}pages/attractions.html`, label: 'Attractions' },
+      { href: `${base}pages/photos.html`, label: 'Photos' },
     ];
+
+    const path = window.location.pathname;
+    const isActive = ({ href }) => {
+      const filename = href.split('/').pop() || 'index.html';
+      return path.endsWith(filename) ||
+        (filename === 'index.html' && (path.endsWith('/') || path === ''));
+    };
 
     const renderLinks = () =>
       links
-        .map(({ href, label }) => {
-          const current = isActive(href) ? ' aria-current="page"' : '';
-          return `<li><a href="${href}"${current}>${label}</a></li>`;
+        .map((link) => {
+          const current = isActive(link) ? ' aria-current="page"' : '';
+          return `<li><a href="${link.href}"${current}>${link.label}</a></li>`;
         })
         .join('\n            ');
 
