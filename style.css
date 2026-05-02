@@ -9,6 +9,8 @@
 /* ===== COLORS ===== */
 
 :root {
+  --font-header: "Cinzel", Georgia, serif;
+
   --color-text: #4d2d17;
   --color-accent: #8b4513;
   --color-tagline: #e8d5a3;
@@ -64,6 +66,7 @@ header {
 }
 
 h1 {
+  font-family: var(--font-header);
   color: var(--color-white);
   font-size: clamp(2rem, 5vw, 4rem);
   letter-spacing: 0.05em;
