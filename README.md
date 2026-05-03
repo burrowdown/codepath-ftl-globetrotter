@@ -1,8 +1,6 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Unit Assignment: Globetrotter
 
-Submitted by: Danny
+Submitted by: Danny Burrow
 
 Estimated time spent: **6** hours spent in total
 
@@ -73,7 +71,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://burrow.dev
 - [ ] **Interactive Navigation**
   - [ ] Implement a dropdown menu where at least one menu item includes a nested dropdown menu to access additional categories or sub-pages.
 
-- [x]**Travel Newsletter Form**
+- [x] **Travel Newsletter Form**
   - [x] Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
   - [x] _Note_: You do not have to collect and save the data submitted using the form.
 
@@ -87,25 +85,21 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://burrow.dev
 
 ### Walkthrough Video
 
-<div style="position: relative; padding-bottom: 73.17073170731707%; height: 0;"><iframe src="https://www.loom.com/embed/8c62ae46b1ab4410b491e4ba04c53390" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[Loom Video](https://www.loom.com/share/8c62ae46b1ab4410b491e4ba04c53390)
 
 ### Reflection
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Umm I referenced the docs to figure out how exactly we were supposed to use AI here
-
-Add your response here
+Umm I referenced the docs to figure out how exactly we were supposed to use AI here, and found the answers I was looking for, so I guess yes?
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
 
-Not really!
-
-Add your response here
+I forgot I was supposed to take things step by step, so I wasted a little time in the begining.
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-There's not really anything interactive on this one, demo feels like a formality
+There's not really anything interactive on this one, demo feels like a formality. I did kinda completely forget how to use Loom, so I'm glad I had an easy one to warm up on.
 
 ### Open-source libraries used
 
